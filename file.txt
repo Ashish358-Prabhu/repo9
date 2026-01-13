@@ -1,2 +1,6 @@
 hello from remote branch
+<<<<<<< HEAD
 hello from remote branch 1
+=======
+hello from local branch
+>>>>>>> 84e0c9c (c1)
